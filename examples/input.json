@@ -1,0 +1,8 @@
+{
+  "values": [
+    "a",
+    "long",
+    "\u00e9\u00e9"
+  ],
+  "max_characters": 2
+}
